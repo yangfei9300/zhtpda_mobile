@@ -1,0 +1,11 @@
+.xiayibubtn{
+	width: 600rpx;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	background-color:#2E7EFC;
+	color: white;
+	border-radius: 10rpx;
+	margin-top: 55rpx;
+}
+

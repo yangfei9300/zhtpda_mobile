@@ -1,0 +1,26 @@
+
+.leftbo{
+		width: 150rpx;
+		height: 50rpx;
+		background-color: blue;
+		color: white;
+		line-height: 50rpx;
+		border-radius: 15rpx;
+		text-align: center;
+		position: fixed;
+		bottom: 40rpx;
+		left: 40rpx;
+}
+.rightbo{
+	width: 150rpx;
+	height: 50rpx;
+	background-color: blue;
+	color: white;
+	line-height: 50rpx;
+	border-radius: 15rpx;
+	text-align: center;
+	position: fixed;
+	bottom: 40rpx;
+	right: 40rpx;
+}
+

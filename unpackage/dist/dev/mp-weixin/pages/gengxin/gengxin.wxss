@@ -1,0 +1,5 @@
+.btndd{
+	width:550rpx;height: 80rpx;line-height: 80rpx;border-radius: 0rpx;
+	border-radius: 20rpx;
+}
+

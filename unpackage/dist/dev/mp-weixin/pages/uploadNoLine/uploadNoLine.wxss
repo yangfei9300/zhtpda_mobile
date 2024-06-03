@@ -1,0 +1,40 @@
+
+.leftbo{
+		width: 200rpx;
+		height: 50rpx;
+		background-color: blue;
+		color: white;
+		line-height: 50rpx;
+		border-radius: 15rpx;
+		text-align: center;
+		position: fixed;
+		bottom: 40rpx;
+		padding:0rpx 10rpx;
+		left: 40rpx;
+}
+.centerbo{
+		width: 300rpx;
+		height: 50rpx;
+		background-color: blue;
+		color: white;
+		line-height: 50rpx;
+		border-radius: 15rpx;
+		text-align: center;
+		position: fixed;
+		bottom: 40rpx;
+		padding:0rpx 10rpx;
+		left: 250rpx;
+}
+.rightbo{
+	width: 150rpx;
+	height: 50rpx;
+	background-color: blue;
+	color: white;
+	line-height: 50rpx;
+	border-radius: 15rpx;
+	text-align: center;
+	position: fixed;
+	bottom: 40rpx;
+	right: 40rpx;
+}
+

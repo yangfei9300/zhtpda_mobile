@@ -1,0 +1,1 @@
+<view><view class="colonn"><button data-event-opts="{{[['longpress',[['clearSaanInfo',['statistics_num']]]]]}}" class="xiayibubtn" bindlongpress="__e">清理登录用户表</button><button data-event-opts="{{[['longpress',[['clearSaanInfo',['scan_info']]]]]}}" class="xiayibubtn" bindlongpress="__e">清理登录扫码详情表</button></view></view>

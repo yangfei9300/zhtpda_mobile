@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/sanCode/sanCode",
+    "pages/sqlLite/sqlLite",
+    "pages/tongjiNum/tongjiNum",
+    "pages/gengxin/gengxin",
+    "pages/uploadNoLine/uploadNoLine",
+    "pages/clearData/clearData",
+    "pages/administrators/administrators"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "展汇通",
+    "backgroundColor": "black",
+    "navigationBarBackgroundColor": "#2E7EFC",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {}
+}

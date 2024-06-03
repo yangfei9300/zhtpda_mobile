@@ -1,0 +1,74 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#2E7EFC",
+				"navigationBarTextStyle": "white" //状态栏字体颜色
+			
+			}
+		},
+		{
+			"path": "pages/sanCode/sanCode",
+			"style": {
+				"navigationBarTitleText": "扫码入场",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#2E7EFC",
+				"navigationBarTextStyle": "white" //状态栏字体颜色
+			}
+
+		}, {
+			"path": "pages/sqlLite/sqlLite",
+			"style": {
+				"navigationBarTitleText": "Sqlite数据库",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/tongjiNum/tongjiNum",
+			"style": {
+				"navigationBarTitleText": "业绩统计",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/gengxin/gengxin",
+			"style": {
+				"navigationBarTitleText": "检查更新",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/uploadNoLine/uploadNoLine",
+			"style": {
+				"navigationBarTitleText": "离线数据上传",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/clearData/clearData",
+			"style": {
+				"navigationBarTitleText": "清理数据",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/administrators/administrators",
+			"style": {
+				"navigationBarTitleText": "管理员界面",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTitleText": "展汇通",
+		"backgroundColor": "black",
+		"navigationBarBackgroundColor": "#2E7EFC",
+		"navigationBarTextStyle": "white" //状态栏字体颜色
+		
+	},
+	"uniIdRouter": {}
+}
